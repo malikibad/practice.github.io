@@ -1,0 +1,30 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1em;
+}
+#myName{
+  font-size: 1.6em;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: lighter;
+transition: ease 0.29s;
+
+}
+#myName:hover{
+  background-color: rgba(0, 0, 0, 0.677);
+  color: white;
+  border-radius: 3px;
+}
+
+#mySub{
+  font-size: 1.4em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-weight:5; */
+  background-color: white;
+  transition: ease 0.29s;
+
+}
+
+#mySub:hover{
+  background-color: rgb(255, 255, 255);
+  color: blue;
+}
